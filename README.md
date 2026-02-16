@@ -10,7 +10,7 @@ I bridge the gap between high-level **Deep Learning** research and solid **IT In
 
 ### 🚀 Key Projects
 - **Satellite Imagery Segmentation:** Custom Mask R-CNN architecture with W&B tracking.
-- **Crack Detection (Anomaly Detection):** Attention U-Net for structural health monitoring.
+- **Crack Detection:** Attention U-Net for structural health monitoring.
 - **Classical CV Tracker:** Multi-object tracking system for board games (No-Neural-Network approach).
 
 ### 📜 Certifications
