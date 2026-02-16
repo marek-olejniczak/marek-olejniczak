@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Marek! 👋
 
-<!--
-**marek-olejniczak/marek-olejniczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year **Artificial Intelligence** student at Poznan University of Technology. 
+I bridge the gap between high-level **Deep Learning** research and solid **IT Infrastructure**.
 
-Here are some ideas to get you started:
+### 🛠 Technical Arsenal
+- **AI/ML:** PyTorch, Computer Vision (Segmentation, Detection), OpenCV, Scikit-learn
+- **Languages:** Python (Pandas, NumPy), C++ (OOP, CMake), SQL, MongoDB
+- **Infrastructure:** Linux, Docker, Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Projects
+- **Satellite Imagery Segmentation:** Custom Mask R-CNN architecture with W&B tracking.
+- **Crack Detection (Anomaly Detection):** Attention U-Net for structural health monitoring.
+- **Classical CV Tracker:** Multi-object tracking system for board games (No-Neural-Network approach).
+
+### 📜 Certifications
+- **CCNA v7** (Cisco Certified Network Associate)
+- **SLES** (SUSE Linux Enterprise Server Administration)
+- **Certified IT Technician** (INF.02 & INF.03)
+
